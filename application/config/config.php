@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'http://35.240.237.104:8000/dicoding-wahyu';
+$config['base_url'] = 'http://35.240.237.104/dicoding-wahyu';
 
 /*
 |--------------------------------------------------------------------------
